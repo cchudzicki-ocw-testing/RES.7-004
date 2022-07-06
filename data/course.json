@@ -8,6 +8,26 @@
     [
       "Science",
       "Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
     ]
   ],
   "legacy_uid": "",
@@ -16,7 +36,7 @@
     "website": "bionook"
   },
   "course_image": {
-    "content": "",
+    "content": "6b576241-8faa-416a-a18c-4b6dc2cf7eeb",
     "website": "bionook"
   },
   "course_title": "BioNook Online Biology Resources",
@@ -27,7 +47,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "RES.7-004",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "c57be20e-41ec-4134-9e59-50bbe12df56a",
     "website": "bionook"
   },
   "learning_resource_types": [
