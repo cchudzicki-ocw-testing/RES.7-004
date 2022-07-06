@@ -32,8 +32,10 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "bionook"
+    "content": [
+      "671f7012-8459-4272-801a-5bc9809313a2"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "6b576241-8faa-416a-a18c-4b6dc2cf7eeb",
